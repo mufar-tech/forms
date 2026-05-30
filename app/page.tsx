@@ -1,6 +1,7 @@
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
-import { LogoIcon } from "@/components/logo"
+import { Icons } from "@/components/icons"
+import { Logo, LogoIcon } from "@/components/logo"
 import {
   FileText,
   BarChart3,
