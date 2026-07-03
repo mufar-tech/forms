@@ -19,6 +19,7 @@ export const metadata: Metadata = {
   description: 'Create powerful forms, surveys, registrations, and feedback systems with Mufar Forms. Enterprise-ready form builder by Mufar Technologies.',
   generator: 'Mufar Technologies',
   keywords: ['form builder', 'survey', 'data collection', 'registration forms', 'feedback', 'enterprise forms'],
+  icons: [{ rel: 'icon', url: '/mufar_forms_favicon.png' }],
 }
 
 export const viewport: Viewport = {
